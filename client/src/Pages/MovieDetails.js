@@ -28,6 +28,7 @@ function MovieDetails() {
         catch (e) {
             setError(e.message);
         }
+        
     }
 
     return (
